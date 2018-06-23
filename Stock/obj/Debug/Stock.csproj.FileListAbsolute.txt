@@ -1,0 +1,11 @@
+C:\Users\onyeb\OneDrive\Documents\Visual Studio 2015\Projects\Stock\Stock\bin\Debug\Stock.exe.config
+C:\Users\onyeb\OneDrive\Documents\Visual Studio 2015\Projects\Stock\Stock\bin\Debug\Stock.exe
+C:\Users\onyeb\OneDrive\Documents\Visual Studio 2015\Projects\Stock\Stock\bin\Debug\Stock.pdb
+C:\Users\onyeb\OneDrive\Documents\Visual Studio 2015\Projects\Stock\Stock\obj\Debug\Stock.Login.resources
+C:\Users\onyeb\OneDrive\Documents\Visual Studio 2015\Projects\Stock\Stock\obj\Debug\Stock.Products.resources
+C:\Users\onyeb\OneDrive\Documents\Visual Studio 2015\Projects\Stock\Stock\obj\Debug\Stock.Properties.Resources.resources
+C:\Users\onyeb\OneDrive\Documents\Visual Studio 2015\Projects\Stock\Stock\obj\Debug\Stock.StockMain.resources
+C:\Users\onyeb\OneDrive\Documents\Visual Studio 2015\Projects\Stock\Stock\obj\Debug\Stock.csproj.GenerateResource.Cache
+C:\Users\onyeb\OneDrive\Documents\Visual Studio 2015\Projects\Stock\Stock\obj\Debug\Stock.exe
+C:\Users\onyeb\OneDrive\Documents\Visual Studio 2015\Projects\Stock\Stock\obj\Debug\Stock.pdb
+C:\Users\onyeb\OneDrive\Documents\Visual Studio 2015\Projects\Stock\Stock\obj\Debug\Stock.csprojResolveAssemblyReference.cache
